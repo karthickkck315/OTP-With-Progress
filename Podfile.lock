@@ -1,0 +1,16 @@
+PODS:
+  - SVPinView (1.0.3)
+
+DEPENDENCIES:
+  - SVPinView (~> 1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SVPinView
+
+SPEC CHECKSUMS:
+  SVPinView: 3e1ad458d8350ff05e851d8c2296c94c9fc6828c
+
+PODFILE CHECKSUM: 96fadc32ec0dd63f4fa89445979075cf0c89cc6e
+
+COCOAPODS: 1.5.3
